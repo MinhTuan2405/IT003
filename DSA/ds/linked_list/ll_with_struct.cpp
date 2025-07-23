@@ -29,7 +29,7 @@ void init (LinkedList *&list) {
 void display (LinkedList *list) {
     Node* temp = list -> head;
     while (temp) {
-        std::cout << temp -> data << " (" << temp << ") -> ";
+        std::cout << temp -> data << " (" << temp << ") -> "; // data
         temp = temp -> next;
     }
     std::cout << "NULL";
