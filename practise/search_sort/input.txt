@@ -1,16 +1,5 @@
+2                  
 3
-20520001
-Nguyen The Nhu Quynh
-2003
-0
-5.3
-20520003
-Le Hoang Quan
-2003
-1
-9.7
-20520005
-Dinh Van Phuong
-2003
-1
-7.2
+1 2 3
+5
+4 8 1 10 2

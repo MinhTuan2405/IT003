@@ -1,0 +1,1 @@
+if (front->right) append(q, front->right);
