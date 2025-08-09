@@ -1,1 +1,4 @@
-2020 2022 2021 2023 
+2
+[20520005	Dinh Van Phuong	1	2003	7.2]
+[20520003	Le Hoang Quan	1	2003	9.7]
+[20520001	Nguyen The Nhu Quynh	0	2003	5.3]

@@ -22,4 +22,32 @@ include
 
 using namespace std;
 
-//###INSERT CODE HERE -
+//###INSERT CODE HERE 
+#define vii vector <vector <int>>
+vii build_prefix_sum (vii a) {
+    vii prefix;
+
+    return prefix;
+}
+int main () {
+    freopen("input.txt", "r", stdin);
+    freopen("output.txt", "w", stdout);
+    std::ios::sync_with_stdio(false);
+    std::cin.tie(nullptr); 
+    std::cout.tie(nullptr);
+    int n, m; cin >> n >> m;
+    vector <vector <int>> a (n, vector <int> (0));
+
+    for (int i = 0; i < n; ++i)
+        for (int j = 0; j < m; ++j) {
+            int x; cin >> x;
+            a[i].push_back (x);
+        }
+
+    for (auto i : a) {
+        for (auto k : i) cout << k << " ";
+        cout << endl;
+    }
+
+    return 0;
+}
