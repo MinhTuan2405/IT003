@@ -1,3 +1,16 @@
-4 4 2 2 8 8 9 9 
-After removing the duplicate elements:
-2 4 8 9 
+List 0: 44
+List 1: 12 23
+List 2:
+List 3: 91
+List 4:
+List 5: 38 27
+List 6:
+List 7:
+List 8: 8
+List 9:
+List 10:
+2
+KHONG
+KHONG
+2
+1
