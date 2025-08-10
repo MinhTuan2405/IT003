@@ -1,5 +1,13 @@
 {
     "files.associations": {
-        "iostream": "cpp"
+        "iostream": "cpp",
+        "array": "cpp",
+        "regex": "cpp",
+        "bitset": "cpp",
+        "vector": "cpp",
+        "memory": "cpp",
+        "system_error": "cpp",
+        "thread": "cpp",
+        "typeindex": "cpp"
     }
 }
