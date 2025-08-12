@@ -1,6 +1,2 @@
-FALSE
-FALSE
-I H 
-L H 
-FALSE
-NONE
+4
+1 2 3 5 
